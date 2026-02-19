@@ -11,7 +11,7 @@ public class Principal {
     private Scanner teclado = new Scanner(System.in);
     private ConsumoAPI consumoApi = new ConsumoAPI();
     private final String URL_BASE = "https://www.omdbapi.com/?t=";
-    private final String API_KEY = "&apikey=7d81e587";
+    private final String API_KEY = "TU_API_KEY_AQUI";
     private ConvierteDatos conversor = new ConvierteDatos();
     private List<DatosSerie> datosSerie = new ArrayList<>();
 
