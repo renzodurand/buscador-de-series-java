@@ -35,3 +35,7 @@ Este proyecto no es solo funcional, sino que sigue estándares de diseño profes
 - Compilar y ejecutar desde tu IDE favorito o mediante el Maven Wrapper:
    ```bash
    ./mvnw compile exec:java
+
+## 📩 Contacto
+- Desarrollado con dedicación por `Renzo Durand`.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-durand/)
